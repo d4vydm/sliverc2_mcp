@@ -14,9 +14,9 @@ A simple MCP server for the Sliver C2 framework.
     "command": "/Users/<user>/.local/bin/uv",
     "args": [
         "--directory",
-        "sliver-mcpserver-python",
+        "sliverc2_mcp",
         "run",
-        "sliver_mcp.py",
+        "sliverc2_mcp.py",
         "--operator-config-file",
         "sliver_operator.cfg"
     ]
